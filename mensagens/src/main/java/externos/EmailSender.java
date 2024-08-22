@@ -10,7 +10,7 @@ import java.util.Properties;
 public class EmailSender {
 
     private static final String USERNAME = "rafaelioppi@gmail.com"; // Coloque o seu email
-    private static final String PASSWORD = "aotg adit ujkj fxfx"; // Coloque a sua senha
+    private static final String PASSWORD = ""; // Coloque a sua senha
 
     public static void enviarEmail(Mensagem mensagem, String conteudoEmail ) {
         Properties props = new Properties();
